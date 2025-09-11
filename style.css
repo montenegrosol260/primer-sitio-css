@@ -1,0 +1,20 @@
+#header {
+  background-color: gray;
+}
+
+.parrafos {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.imagenes {
+    display:flex;
+    justify-content: space-around;
+    border: 2px solid #BE6841;
+    padding: 20px;
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+}
